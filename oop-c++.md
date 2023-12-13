@@ -189,7 +189,7 @@ Class là khuôn mẫu để tạo ra đối tượng.
 ...
 
 
-![Alt text](/images/oops-2.png)
+![Alt text](/images/oops_2.png)
 
 https://viblo.asia/p/solid-5-nguyen-tac-cua-thiet-ke-huong-doi-tuong-WAyK8LWEKxX
 
